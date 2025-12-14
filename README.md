@@ -27,7 +27,7 @@
 
 | App | Link |
 | :--- | :--- |
-| **Wondr by BNI** (Banking) | [App Store](https://apps.apple.com/sg/app/wondr-by-bni/id6499518320) |
+| **Banking (Super App) | [App Store](https://apps.apple.com/sg/app/wondr-by-bni/id6499518320) |
 | **Ajaib - Stock** (Fintech) | [App Store](https://apps.apple.com/sg/app/ajaib-saham-bond-reksadana/id1473916571) |
 | **Ajaib - Crypto** (Crypto) | [App Store](https://apps.apple.com/id/app/ajaib-alpha-crypto-us-stock/id1634168301) |
 | **Privy** (Digital Signature) | [App Store](https://apps.apple.com/sg/app/privy-digital-signature/id1218828609) |
