@@ -22,6 +22,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yefga&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ### 📲 Apps I've Worked On
 <samp>Here are a few products I've contributed to: </samp>
 
