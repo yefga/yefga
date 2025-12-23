@@ -5,7 +5,7 @@
 
   <!-- TYPING ANIMATION HEADER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3578E5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Yefga+%F0%9F%91%8B;I'm+an+iOS+Engineer+%F0%9F%8D%8E;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3578E5&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Yefga+%F0%9F%91%8B;I'm+a+Software+Engineer+with+an+iOS+background;" alt="Typing SVG" />
   </a>
 
 </div>
@@ -13,22 +13,15 @@
 <br/>
 
 <div align="center">
-  <samp>
-    Building iOS apps since 2018, from fast-growing <b>startups to enterprise environments.</b><br>
-    I enjoy designing clean, scalable systems, writing testable code, and<br>
-    collaborating with others to ship quality products.
-  </samp>
+<samp>
+  I started in web design, then spent the last seven years working on iOS products.<br/>
+  These days I work across different stacks, using AI tools and automation to support practical software delivery.
+</samp>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yefga&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📲 Apps I've Worked On
+### 📲 Products I’ve Worked On
 <samp>Here are a few products I've contributed to: </samp>
 
 | App | Link |
@@ -48,6 +41,7 @@
 **Languages**<br/>
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <br/>
 
@@ -60,7 +54,9 @@
 </div>
 
 ---
+
 <div align="center">
+  
   <a href="https://www.linkedin.com/in/yefga">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
   </a>
