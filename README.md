@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Things I've made
+### 🛠️ Things I've made for world
 <samp>Here are a few products I've contributed to: </samp>
 
 | App | Platform | Link |
