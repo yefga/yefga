@@ -21,6 +21,15 @@
 
 ---
 
+### 🛠️ Things I've made
+<samp>Here are a few products I've contributed to: </samp>
+
+| App | Platform | Link |
+| :--- | :--- | :--- |
+| **Karafuru** | macOS | [App Store](https://apps.apple.com/en/app/karafuru/id6757244075) |
+
+---
+
 ### 📲 Products I’ve Worked On
 <samp>Here are a few products I've contributed to: </samp>
 
