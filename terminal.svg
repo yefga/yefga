@@ -12,45 +12,55 @@
     .dim { fill: #6c7086; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; }
     .highlight { fill: #f9e2af; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; }
     .location { fill: #f38ba8; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; }
-
   </style>
 
   <!-- Terminal Window -->
   <rect class="terminal" width="600" height="320" rx="10" ry="10"/>
 
   <!-- Header Bar -->
-  <rect class="header" width="600" height="32" rx="10" ry="10"/>
-  <rect class="terminal" y="22" width="600" height="12"/>
+  <rect class="header" width="600" height="36" rx="10" ry="10"/>
+  <rect class="terminal" y="26" width="600" height="12"/>
 
   <!-- Window Buttons -->
-  <circle class="btn-red" cx="20" cy="16" r="6"/>
-  <circle class="btn-yellow" cx="40" cy="16" r="6"/>
-  <circle class="btn-green" cx="60" cy="16" r="6"/>
+  <circle class="btn-red" cx="20" cy="15" r="6"/>
+  <circle class="btn-yellow" cx="40" cy="15" r="6"/>
+  <circle class="btn-green" cx="60" cy="15" r="6"/>
 
   <!-- Title -->
-  <text class="title" x="300" y="20" text-anchor="middle">yefga@life ~</text>
+  <text class="title" x="300" y="17" text-anchor="middle">yefga@life ~</text>
+
+  <!-- Spinner after title -->
+  <g transform="translate(358, 15)">
+    <circle cx="0" cy="0" r="5" fill="none" stroke="#313244" stroke-width="1.5"/>
+    <path d="M 0 -5 A 5 5 0 0 1 5 0" fill="none" stroke="#a6e3a1" stroke-width="1.5" stroke-linecap="round">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0"
+        to="360"
+        dur="1s"
+        repeatCount="indefinite"/>
+    </path>
+  </g>
 
   <!-- Status -->
-  <text class="prompt" x="20" y="60">$</text>
-  <text class="command" x="35" y="60">whoami --status</text>
+  <text class="prompt" x="20" y="64">$</text>
+  <text class="command" x="35" y="64">whoami --status</text>
 
-  <text class="output" x="20" y="90">On a sabbatical.</text>
-  <text class="output" x="20" y="110">Open to work, though that hasn't</text>
-  <text class="output" x="20" y="130">quite worked out lately.</text>
+  <text class="output" x="20" y="94">On a sabbatical.</text>
+  <text class="output" x="20" y="114">Open to work, though that hasn't</text>
+  <text class="output" x="20" y="134">quite worked out lately.</text>
 
-  <text class="dim" x="20" y="160">// currently</text>
-  <text class="highlight" x="20" y="180">Observing and building messy with AI</text>
-  <text class="highlight" x="20" y="200">in different flavors.</text>
+  <text class="dim" x="20" y="164">// currently</text>
+  <text class="highlight" x="20" y="184">Observing and building messy with AI</text>
+  <text class="highlight" x="20" y="204">in different flavors.</text>
 
   <!-- Location -->
-  <text class="prompt" x="20" y="235">$</text>
-  <text class="command" x="35" y="235">echo $LOCATION</text>
+  <text class="prompt" x="20" y="239">$</text>
+  <text class="command" x="35" y="239">echo $LOCATION</text>
 
-  <text class="location" x="20" y="262">Indonesia</text>
-  <text class="dim" x="20" y="285">// open to relocate, teleport, levitate, evaporate,</text>
-  <text class="dim" x="20" y="302">// reincarnate, accelerate, migrate. just hire me.</text>
-  <text class="dim" x="395" y="302">/
-    <animateTransform attributeName="transform" type="rotate" from="0 398 297" to="360 398 297" dur="1s" repeatCount="indefinite" />
-  </text>
+  <text class="location" x="20" y="266">Indonesia</text>
+  <text class="dim" x="20" y="289">// open to relocate, teleport, levitate, evaporate,</text>
+  <text class="dim" x="20" y="306">// reincarnate, accelerate, migrate. just hire me.</text>
 
 </svg>
