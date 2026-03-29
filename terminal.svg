@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320">
   <style>
     .terminal { fill: #1e1e2e; }
     .header { fill: #313244; }
@@ -16,7 +16,7 @@
   </style>
 
   <!-- Terminal Window -->
-  <rect class="terminal" width="600" height="280" rx="10" ry="10"/>
+  <rect class="terminal" width="600" height="320" rx="10" ry="10"/>
 
   <!-- Header Bar -->
   <rect class="header" width="600" height="32" rx="10" ry="10"/>
@@ -47,7 +47,7 @@
   <text class="command" x="35" y="235">echo $LOCATION</text>
 
   <text class="location" x="20" y="262">Indonesia</text>
-  <text class="dim" x="100" y="262">// open to relocate, teleport, levitate, evaporate,</text>
-  <text class="dim" x="100" y="276">// reincarnate, accelerate, migrate. just hire me.</text>
+  <text class="dim" x="20" y="285">// open to relocate, teleport, levitate, evaporate,</text>
+  <text class="dim" x="20" y="302">// reincarnate, accelerate, migrate. just hire me.</text>
 
 </svg>
