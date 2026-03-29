@@ -1,51 +1,17 @@
+<p align="center">
+  <img src="terminal.svg" alt="Terminal Status" />
+</p>
 
+<p align="center">
+  <a href="https://apps.apple.com/en/app/karafuru/id6757244075">Karafuru</a> ·
+  <a href="https://apps.apple.com/sg/app/wondr-by-bni/id6499518320">Banking</a> ·
+  <a href="https://apps.apple.com/sg/app/ajaib-saham-bond-reksadana/id1473916571">Ajaib</a> ·
+  <a href="https://apps.apple.com/sg/app/privy-digital-signature/id1218828609">Privy</a> ·
+  <a href="https://apps.apple.com/sg/app/%E9%BB%9E%E9%BB%9E%E9%96%B1-15%E5%88%86%E9%90%98%E5%AF%A6%E7%94%A8%E6%9B%B8%E6%91%98%E8%A6%81/id1465637208">點點閱</a>
+</p>
 
-
-<div align="center">
-
-  <!-- TYPING ANIMATION HEADER -->
-  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3578E5&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Yefga+%F0%9F%91%8B;I'm+a+Software+Engineer+with+an+iOS+background;" alt="Typing SVG" />
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<samp>
-  I started in web design, then spent the last seven years working on iOS products.<br/>
-  These days I work across different stacks, using AI tools and automation to support practical software delivery.
-</samp>
-</div>
-
----
-
-### 🛠️ Things I've made for world
-<samp>Here are a few products I've contributed to: </samp>
-
-| App | Platform | Link |
-| :--- | :--- | :--- |
-| **Karafuru** | macOS | [App Store](https://apps.apple.com/en/app/karafuru/id6757244075) |
-
----
-
-### 📲 Products I’ve Worked On
-<samp>Here are a few products I've contributed to: </samp>
-
-| App | Link |
-| :--- | :--- |
-| **Banking** (Super App) | [App Store](https://apps.apple.com/sg/app/wondr-by-bni/id6499518320) |
-| **Ajaib - Stock** (Fintech) | [App Store](https://apps.apple.com/sg/app/ajaib-saham-bond-reksadana/id1473916571) |
-| **Ajaib - Crypto** (Crypto) | [App Store](https://apps.apple.com/id/app/ajaib-alpha-crypto-us-stock/id1634168301) |
-| **Privy** (Digital Signature) | [App Store](https://apps.apple.com/sg/app/privy-digital-signature/id1218828609) |
-| **DDR** (Book Summary) | [App Store](https://apps.apple.com/sg/app/%E9%BB%9E%E9%BB%9E%E9%96%B1-15%E5%88%86%E9%90%98%E5%AF%A6%E7%94%A8%E6%9B%B8%E6%91%98%E8%A6%81/id1465637208) |
-
----
-
-<div align="center">
-  
+<p align="center">
   <a href="https://www.linkedin.com/in/yefga">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-</div>
+</p>
