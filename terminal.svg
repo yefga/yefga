@@ -49,5 +49,8 @@
   <text class="location" x="20" y="262">Indonesia</text>
   <text class="dim" x="20" y="285">// open to relocate, teleport, levitate, evaporate,</text>
   <text class="dim" x="20" y="302">// reincarnate, accelerate, migrate. just hire me.</text>
+  <text class="dim" x="395" y="302">/
+    <animateTransform attributeName="transform" type="rotate" from="0 398 297" to="360 398 297" dur="1s" repeatCount="indefinite" />
+  </text>
 
 </svg>
