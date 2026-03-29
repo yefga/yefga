@@ -12,8 +12,7 @@
     .dim { fill: #6c7086; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; }
     .highlight { fill: #f9e2af; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; }
     .location { fill: #f38ba8; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; }
-    .cursor { fill: #cdd6f4; animation: blink 1s step-end infinite; }
-    @keyframes blink { 50% { opacity: 0; } }
+
   </style>
 
   <!-- Terminal Window -->
