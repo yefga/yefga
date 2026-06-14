@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="terminal.svg" alt="Terminal Status" />
-</p>
-
----
-
-<p align="center">
-  <strong>Self-Creations</strong><br>
-  <a href="https://apps.apple.com/en/app/karafuru/id6757244075">Karafuru</a>
-</p>
-
----
 
 <p align="center">
   <strong>Past Contribution Industries</strong><br>
