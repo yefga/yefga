@@ -1,5 +1,11 @@
 
 <p align="center">
+  <strong>Download my apps on <a href="https://apps.apple.com/us/developer/yefga-torra-prima/id1631155171">App Store</a>
+</p>
+
+---
+
+<p align="center">
   <strong>Past Contribution Industries</strong><br>
   <a href="https://apps.apple.com/app/wondr-by-bni/id6499518320">Banking</a> ·
   <a href="https://apps.apple.com/app/ajaib-saham-bond-reksadana/id1473916571">Stock Trading</a> · <a href="https://apps.apple.com/id/app/ajaib-kripto-buy-btc-crypto/id1634168301">Crypto Trading</a> ·
